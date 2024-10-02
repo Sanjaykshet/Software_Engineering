@@ -1,2 +1,2 @@
-# Software_Engineering
+# Software engineering
 Course work report
